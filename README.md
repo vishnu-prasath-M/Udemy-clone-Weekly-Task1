@@ -1,6 +1,4 @@
 # Udemy-clone-Project
-# Udemy Clone Project
-
 ## Overview
 This project is a single-page Udemy clone created with HTML and basic CSS, utilizing Flexbox for layout. It demonstrates essential features of a course platform with a responsive design that adapts beautifully to various devices.
 
